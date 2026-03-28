@@ -16,7 +16,7 @@
 
 ## About me
 
-Sou estudante de Tecnologia da Informação, com atuação na área de Análise de Crédito, desenvolvendo habilidades em análise de dados, programação e tecnologia.
+Sou estudante de Tecnologia da Informação, com atuação na área de Análise de Crédito no **Itaú Unibanco**, desenvolvendo habilidades em análise de dados, programação e tecnologia.
 
 Atuo no acompanhamento de indicadores, análise de risco e gestão de carteira de crédito, utilizando dados para apoiar decisões estratégicas.
 
