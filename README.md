@@ -16,12 +16,18 @@
 
 ## About me
 
-Sou **estudante de Tecnologia da Informação** apredendo e me aprimorando sobre **análise de dados, programação e tecnologia**.  
-Busco informações para transformá-las em **insights estratégicos**, explorando **Python, SQL e Power BI** para criar dashboards, automações e soluções.
+Sou estudante de Tecnologia da Informação, com atuação na área de Análise de Crédito, desenvolvendo habilidades em análise de dados, programação e tecnologia.
 
-- Cursando **Tecnologia da Informação – UNIVESP**  
-- Técnica em **Análise e Desenvolvimento de Sistemas – ETEC Jardim Ângela**  
-- Explorando **AWS, Power BI e Python para Data Science**  
+Atuo no acompanhamento de indicadores, análise de risco e gestão de carteira de crédito, utilizando dados para apoiar decisões estratégicas.
+
+Tenho experiência com SQL para extração e análise de dados, além de atuar em processos de manutenção de crédito, análise exploratória e desenvolvimento/manutenção de dashboards.
+
+Busco transformar dados em insights relevantes para suporte à tomada de decisão, explorando ferramentas como Python e SQL.
+
+- Cursando Tecnologia da Informação – UNIVESP  
+- Técnico em Análise e Desenvolvimento de Sistemas – ETEC Jardim Ângela  
+- Experiência com SQL e análise de dados  
+- Explorando AWS, Python e Data Science  
 <!-- - Interesses: **análise exploratória, visualização de dados, estatística e automação** -->
 
 <!-- 
@@ -45,6 +51,6 @@ Busco informações para transformá-las em **insights estratégicos**, exploran
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayare-ferreira/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayare.r.ferr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white)](#)
+<!--[![Portfolio](https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=About.me&logoColor=white)](#)-->
 
 ---
