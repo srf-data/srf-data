@@ -3,15 +3,7 @@
 
   <br>
 
-  <a href="https://github.com/srf-data">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Transformando+dados+em+decisões+estratégicas;Data+Science,+Python+e+SQL;Sempre+aprendendo+e+evoluindo!" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <a href="https://github.com/srf-data">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Transformando+dados+em+insights+reais;Explorando+Python,+SQL+e+AWS;Foco+em+Data+Science+e+Analytics;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Transformando+dados+em+insights+reais;Explorando+Python,+SQL+e+AWS;Foco+em+Data+Science+e+Analytics;Sempre+aprendendo+e+evoluindo" alt="" />
 </div>
 
 ---
