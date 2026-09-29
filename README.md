@@ -117,7 +117,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <p><i>Transformando dados em soluções | Feito com Markdown</i></p>
-</div>
