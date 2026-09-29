@@ -1,26 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=250&section=header&text=Shayare%20Ferreira&fontSize=24&fontAlignY=35&fontColor=FFFFFF&desc=Estagiária%20em%20Análise%20de%20Crédito%20%7C%20Itaú%20Unibanco&descAlignY=55&descSize=16" width="100%" alt="Banner" />
-
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Transformando+dados+em+insights+reais;Explorando+Python,+SQL+e+AWS;Foco+em+Data+Science+e+Analytics;Sempre+aprendendo+e+evoluindo" alt="" />
+  <img width="932" height="760" alt="read" src="https://github.com/user-attachments/assets/a76b6c8b-ce5a-4ed8-a782-92f6e4dae95a" />
 </div>
 
 ---
 
-### Sobre Mim
-
-Sou estudante de Tecnologia da Informação na **UNIVESP** e possuo formação técnica em Análise e Desenvolvimento de Sistemas pela **ETEC Jardim Ângela**. Atualmente atuo na área de Análise de Crédito no **Itaú Unibanco**, desenvolvendo habilidades em análise de dados, programação e tecnologia.
-
-Atuo no acompanhamento de indicadores, análise de risco e gestão da carteira de crédito. Utilizo SQL para extração de dados e apoio em processos de manutenção de crédito, análise exploratória e desenvolvimento de dashboards para suportar decisões estratégicas.
-
-*   **Objetivo:** Transformar dados em insights relevantes para o negócio.
-*   **Foco Técnico:** Estatística, Machine Learning, AWS, Python e manipulação avançada de dados.
-*   **Interesses:** Data Science, ETL, storytelling com dados e visualização.
-
----
-
-### Tecnologias e Ferramentas
+### Technologies and Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python&logoColor=800080" alt="Python" />
@@ -35,21 +19,21 @@ Atuo no acompanhamento de indicadores, análise de risco e gestão da carteira d
 
 ---
 
-### Projetos em Destaque
+### Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">Simulador Bancário em Python</h4>
-      <p align="center">Aplicação orientada a objetos desenvolvida para simular transações financeiras e operações bancárias.</p>
+      <h4 align="center">Banking Simulator in Python</h4>
+      <p align="center">Object-oriented application developed to simulate financial transactions and banking operations.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-800080?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/-POO-800080?style=flat-square&logoColor=white" alt="POO" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">Dashboard de Gestão de Vendas</h4>
-      <p align="center">Visualização interativa de métricas de desempenho e controle de dados estruturados em dashboard.</p>
+      <h4 align="center">Sales Management Dashboard</h4>
+      <p align="center">Interactive visualization of performance metrics and structured data control in a dashboard.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Power_BI-800080?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" />
         <img src="https://img.shields.io/badge/-Excel-800080?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
@@ -58,19 +42,19 @@ Atuo no acompanhamento de indicadores, análise de risco e gestão da carteira d
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">Análise de Dados Públicos</h4>
-      <p align="center">Tratamento, análise descritiva e visualização de dados abertos visando a extração de insights sociais.</p>
+      <h4 align="center">Public Data Analysis</h4>
+      <p align="center">Processing, descriptive analysis, and visualization of open data aimed at extracting social insights.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Pandas-800080?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
         <img src="https://img.shields.io/badge/-Seaborn-800080?style=flat-square" alt="Seaborn" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">Análise de Risco de Crédito (em andamento)</h4>
-      <p align="center">Análise exploratória e manipulação de bases para avaliação de perfis de crédito.</p>
+      <h4 align="center">Credit Risk Analysis (in progress)</h4>
+      <p align="center">Exploratory analysis and data manipulation for credit profile assessment.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/-SQL-800080?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/-Estatística-800080?style=flat-square" alt="Estatística" />
+        <img src="https://img.shields.io/badge/-Statistic-800080?style=flat-square" alt="Statistic" />
       </p>
     </td>
   </tr>
@@ -86,7 +70,7 @@ Atuo no acompanhamento de indicadores, análise de risco e gestão da carteira d
 
 ---
 
-### Estatísticas do GitHub
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srf-data&show_icons=true&hide_border=true&title_color=800080&text_color=333333&icon_color=800080&bg_color=FFFFFF&border_radius=10" height="170" alt="GitHub Stats" />
@@ -101,7 +85,7 @@ Atuo no acompanhamento de indicadores, análise de risco e gestão da carteira d
 
 ---
 
-### Gráfico de Atividade
+### Activity Chart
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srf-data&bg_color=FFFFFF&color=800080&line=800080&point=333333&area=true&hide_border=true&title_color=800080" width="100%" alt="Activity Graph" />
@@ -109,7 +93,7 @@ Atuo no acompanhamento de indicadores, análise de risco e gestão da carteira d
 
 ---
 
-### Contribuições
+### Contributions
 
 <div align="center">
   <picture>
@@ -121,7 +105,7 @@ Atuo no acompanhamento de indicadores, análise de risco e gestão da carteira d
 
 ---
 
-### Contato
+### Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shayare-ferreira/" target="_blank">
